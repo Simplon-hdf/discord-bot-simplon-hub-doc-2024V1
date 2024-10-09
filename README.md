@@ -1,6 +1,6 @@
 # Discord Bot - Hub Simplon
 
-<p align="center"><img src="assets/img/discord-img.webp" alt="Simplon main-img"/></p>
+<p align="center"><img src="assets/img/discord-img.webp" alt="Simplon main-img" width="300" height="auto"/></p>
 
 ---
 
