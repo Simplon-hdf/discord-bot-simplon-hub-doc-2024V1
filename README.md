@@ -1,9 +1,11 @@
-# Titre 
+# Titre
 
-## About the project 
+![Discord](assets/img/discord-img.webp "Main image")
 
-## Built with 
+## About the project
 
-## Setup 
+## Built with
 
-## Contributions 
+## Setup
+
+## Contributions
