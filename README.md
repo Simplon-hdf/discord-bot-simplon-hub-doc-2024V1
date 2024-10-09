@@ -28,36 +28,33 @@
 
 ---
 
-## Commandes du Bot
+## 🚀 Commandes du Bot
 
-### Commandes générales
+### ⚙️ Commandes générales
 
 - **`/test`** : Commande qui affiche un message de test
 
-### Commandes spécifiques à Simplon
+### 🎓 Commandes spécifiques à Simplon
 
 - **`/announcement`** : Permet de diffuser des annonces importantes à tous les membres.
 
-### Commandes de modération
+### 🛠️ Commandes de modération
 
 - **`/mute [user]`** : Coupe le micro d'un utilisateur pour une durée définie.
 
-### Intégrations API
+### 🌐 Intégrations API
 
----
+- **Objectifs** : 🎯
+- **Fonctionnalités principales** : 🧩
+  - 🚀 Lancer des actions automatisées
+  - 🔄 Synchroniser les données entre plusieurs plateformes
 
-### Objectifs :
+### 💻 Technologies utilisées
 
 - ?
 
 ### Fonctionnalités principales :
 
 - ?
-
----
-
-## Technologies utilisées
-
-Ce bot a été construit avec les technologies suivantes :
 
 ---
