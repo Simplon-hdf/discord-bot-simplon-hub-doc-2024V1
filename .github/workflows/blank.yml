@@ -11,7 +11,7 @@ jobs:
     steps:
     - name: Send Discord Notification
       env:
-        WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        WEBHOOK_URL: https://discord.com/api/webhooks/1295828662578450574/0mpp5GNlcZLS7w-7WU0eQl-Dnk0ltkFU1R_c1M7FDhA1NDnMie0lUL7DrunbMcbDNKIj
         PR_TITLE: ${{ github.event.pull_request.title }}
         PR_AUTHOR: ${{ github.event.pull_request.user.login }}
         PR_URL: ${{ github.event.pull_request.html_url }}
