@@ -90,24 +90,25 @@ Il est essentiel de garantir que la communauté reste un espace **respectueux et
 ---
 ## Quels sont les enjeux de ce projet ?
 
-### Dynamisation de l'engagement communautaire
+### Les Rewards: véritable moteur de partage pour Simplon !  🚀
 
 L'un des enjeux **majeurs** est de stimuler **l'implication** des membres. 
 En favorisant des activités **interactives** et des événements thématiques, nous renforçons la **cohésion** au sein de la communauté. 
-Ces initiatives visent à créer un **environnement** où les membres se sentent à l'aise pour partager leurs **idées** et leurs **expériences**. En encourageant la participation active, nous souhaitons également développer un **sentiment d'appartenance** qui incite chacun à **contribuer** de manière **significative** à la vie collective.
+Ces initiatives visent à créer un **environnement** où les membres se sentent à l'aise pour partager leurs **idées** et leurs **expériences**. 
+En encourageant la participation active, nous souhaitons également développer un **sentiment d'appartenance** qui incite chacun à **contribuer** de manière **significative** à la vie collective.
 
 
-### Optimisation de l'environnement d'échange
+### Un espace sécurisé et motivant pour tous 🔒
 Maintenir un cadre **respectueux** et constructif est **crucial** pour le bon fonctionnement d'une communauté.
 Cela implique non seulement **d'intervenir** en cas de comportements inappropriés, mais aussi de **promouvoir** des interactions constructives. 
 En cultivant un espace où chacun peut s'exprimer librement, nous favorisons des discussions **enrichissantes** qui permettent à tous **d'apprendre** et de grandir ensemble.
 
-### Promotion du partage de connaissances
+### Valoriser le savoir et encourager le partage 💡
 Le partage de savoirs et d'expertises est un enjeu **fondamental** pour la communauté.
 En valorisant les contributions significatives par le biais de **reconnaissances** sous forme de **rewards**, la collaboration entre membres est renforcée.
 Cela non seulement enrichit la communauté dans son ensemble, mais permet également à chaque individu d'acquérir de nouvelles **compétences**, de nouvelles **connaissances**, et d'améliorer son expertise.
 
-### Expansion et rétention de la base d'utilisateurs
+### Faire grandir et fidéliser la communauté 🎯
 
 Attirer de nouveaux membres tout en fidélisant ceux déjà présents est **essentiel** pour assurer la **vitalité** de la communauté. 
 En cultivant un environnement accueillant et engageant, nous veillons à ce que chaque membre se sente valorisé et impliqué dans notre dynamique collective. 
