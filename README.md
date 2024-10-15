@@ -90,32 +90,29 @@ Il est essentiel de garantir que la communauté reste un espace **respectueux et
 ---
 ## Quels sont les enjeux de ce projet ?
 
-Concrètement, ce projet vise à répondre à plusieurs enjeux clés :
+### Dynamisation de l'engagement communautaire
 
-### **Stimuler l'animation** de la communauté Simplon
-
-Cet enjeu vise à encourager les membres à s'impliquer davantage et à contribuer activement à la vie de la communauté. 
-
-En mettant en places diverses activités d'animations, la dynamique de la communauté sera renforcée et les échanges entre les membres seront favorisés.
-
-###  **Garantir un environnement sûr et modéré** pour les échanges entre les membres 
-
-Il est crucial de maintenir un environnement respectueux et constructif au sein de la communauté Simplon. 
-
-En détectant et en supprimant automatiquement les contenus inappropriés, la qualité des échanges sera boostée et les comportements nuisibles seront limités.
+L'un des enjeux **majeurs** est de stimuler **l'implication** des membres. 
+En favorisant des activités **interactives** et des événements thématiques, nous renforçons la **cohésion** au sein de la communauté. 
+Ces initiatives visent à créer un **environnement** où les membres se sentent à l'aise pour partager leurs **idées** et leurs **expériences**. En encourageant la participation active, nous souhaitons également développer un **sentiment d'appartenance** qui incite chacun à **contribuer** de manière **significative** à la vie collective.
 
 
-###  **Encourager le partage de connaissances** 
+### Optimisation de l'environnement d'échange
+Maintenir un cadre **respectueux** et constructif est **crucial** pour le bon fonctionnement d'une communauté.
+Cela implique non seulement **d'intervenir** en cas de comportements inappropriés, mais aussi de **promouvoir** des interactions constructives. 
+En cultivant un espace où chacun peut s'exprimer librement, nous favorisons des discussions **enrichissantes** qui permettent à tous **d'apprendre** et de grandir ensemble.
 
-La collaboration entre les utilisateurs favorise l'apprentissage mutuel et la diffusion de ressources utiles au sein de la communauté.
+### Promotion du partage de connaissances
+Le partage de savoirs et d'expertises est un enjeu **fondamental** pour la communauté.
+En valorisant les contributions significatives par le biais de **reconnaissances** sous forme de **rewards**, la collaboration entre membres est renforcée.
+Cela non seulement enrichit la communauté dans son ensemble, mais permet également à chaque individu d'acquérir de nouvelles **compétences**, de nouvelles **connaissances**, et d'améliorer son expertise.
 
-En valorisant les contributions pertinentes et en offrant des avantages aux membres actifs, le partage de connaissances sera encouragé et renforcé.
+### Expansion et rétention de la base d'utilisateurs
 
-### **Attirer de nouveaux membres et fidéliser les utilisateurs existants**
-
-En prenant en compte les différents enjeux évoqués ci-dessus, tout cela sera centralisé sur cet enjeu majeur.
-
-En attirant de nouveaux membres et en fidélisant les utilisateurs existants, la communauté Simplon pourra croître et se développer de manière durable.
+Attirer de nouveaux membres tout en fidélisant ceux déjà présents est **essentiel** pour assurer la **vitalité** de la communauté. 
+En cultivant un environnement accueillant et engageant, nous veillons à ce que chaque membre se sente valorisé et impliqué dans notre dynamique collective. 
+Une base d'utilisateurs diversifiée et engagée est cruciale pour garantir une croissance durable et dynamique.
+Ces enjeux sont donc **déterminants** pour assurer le développement harmonieux et durable de la communauté Simplon, en créant un espace où chacun peut s'épanouir tout en contribuant au succès collectif.
 
 ---
 
