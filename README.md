@@ -101,7 +101,7 @@ En encourageant la participation active, nous souhaitons également développer 
 ### Un espace sécurisé et motivant pour tous 🔒
 Maintenir un cadre **respectueux** et constructif est **crucial** pour le bon fonctionnement d'une communauté.
 Cela implique non seulement **d'intervenir** en cas de comportements inappropriés, mais aussi de **promouvoir** des interactions constructives. 
-En cultivant un espace où chacun peut s'exprimer librement, nous favorisons des discussions **enrichissantes** qui permettent à tous **d'apprendre** et de grandir ensemble.
+En cultivant un espace où chacun peut s'exprimer librement, nous favorisons des discussions **enrichissantes** qui permettent à tous **d'apprendre** et d'évoluer ensemble.
 
 ### Valoriser le savoir et encourager le partage 💡
 Le partage de savoirs et d'expertises est un enjeu **fondamental** pour la communauté.
