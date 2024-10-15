@@ -12,6 +12,10 @@ jobs:
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: |
+          if [ -z "$DISCORD_WEBHOOK_URL" ]; then
+            echo "Webhook URL is not set. Exiting.";
+            exit 1;
+          fi;
           curl -X POST -H "Content-Type: application/json" \
           -d '{
             "content": "Pull Request #${{ github.event.pull_request.number }} has been **${{ github.event.action }}**.\n**Title**: ${{ github.event.pull_request.title }}\n**Link**: [PR Link](${{ github.event.pull_request.html_url }})",
