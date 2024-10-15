@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Envoyer une notification Discord
+    - name: Envoyer une notification Discord avec wget
       env:
         DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         PR_NUMBER: ${{ github.event.pull_request.number }}
@@ -18,11 +18,13 @@ jobs:
         PR_AUTHOR: ${{ github.event.pull_request.user.login }}
         PR_URL: ${{ github.event.pull_request.html_url }}
       run: |
-        # Notification stylisée en français
-        curl -X POST \
-          -H "Content-Type: application/json" \
-          -d '{
-            "content": "**📢 Nouvelle Pull Request !**\n\n🔖 **Titre** : '"\"${PR_TITLE}\""'\n👤 **Auteur** : '"\"${PR_AUTHOR}\""'\n📎 **Lien** : [Voir la PR ici]('"\"${PR_URL}\""')\n📜 **Statut** : '"\"${PR_STATE}\""' 🟢",
-            "username": "Bot PR GitHub"
-          }' \
-          "$DISCORD_WEBHOOK_URL"
+        # Créer le fichier JSON pour la notification
+        echo '{
+          "content": "**📢 Nouvelle Pull Request !**\n\n🔖 **Titre** : '"\"${PR_TITLE}\""'\n👤 **Auteur** : '"\"${PR_AUTHOR}\""'\n📎 **Lien** : [Voir la PR ici]('"\"${PR_URL}\""')\n📜 **Statut** : '"\"${PR_STATE}\""' 🟢",
+          "username": "Bot PR GitHub"
+        }' > payload.json
+
+        # Envoyer la notification avec wget
+        wget --header="Content-Type: application/json" \
+             --post-file=payload.json \
+             "$DISCORD_WEBHOOK_URL"
