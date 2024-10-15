@@ -11,7 +11,6 @@ jobs:
     steps:
     - name: Envoyer une notification Discord
       env:
-        WEBHOOK_URL: https://discord.com/api/webhooks/1295828662578450574/0mpp5GNlcZLS7w-7WU0eQl-Dnk0ltkFU1R_c1M7FDhA1NDnMie0lUL7DrunbMcbDNKIj
         DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         PR_NUMBER: ${{ github.event.pull_request.number }}
         PR_STATE: ${{ github.event.pull_request.state }}
@@ -23,11 +22,7 @@ jobs:
         curl -X POST \
           -H "Content-Type: application/json" \
           -d '{
-            "content": "**📢 Nouvelle Pull Request !**\n\n" \
-                      "🔖 **Titre** : '"${PR_TITLE}"'\n" \
-                      "👤 **Auteur** : '"${PR_AUTHOR}"'\n" \
-                      "📎 **Lien** : [Voir la PR ici]('"${PR_URL}"')\n" \
-                      "📜 **Statut** : '"${PR_STATE}"' 🟢",
+            "content": "**📢 Nouvelle Pull Request !**\n\n🔖 **Titre** : '"\"${PR_TITLE}\""'\n👤 **Auteur** : '"\"${PR_AUTHOR}\""'\n📎 **Lien** : [Voir la PR ici]('"\"${PR_URL}\""')\n📜 **Statut** : '"\"${PR_STATE}\""' 🟢",
             "username": "Bot PR GitHub"
           }' \
           "$DISCORD_WEBHOOK_URL"
