@@ -88,6 +88,36 @@ Le système de "likes" 👍 et "dislikes" 👎 permet aux utilisateurs de recevo
 Il est essentiel de garantir que la communauté reste un espace **respectueux et productif**. Grâce à la **modération automatique** et aux signalements communautaires, le bot s'assure que les interactions restent **appropriées**, et que les contenus inappropriés sont rapidement supprimés. ✅
 
 ---
+## Quels sont les enjeux de ce projet ?
+
+Concrètement, ce projet vise à répondre à plusieurs enjeux clés :
+
+### **Stimuler l'animation** de la communauté Simplon
+
+Cet enjeu vise à encourager les membres à s'impliquer davantage et à contribuer activement à la vie de la communauté. 
+
+En mettant en places diverses activités d'animations, la dynamique de la communauté sera renforcée et les échanges entre les membres seront favorisés.
+
+###  **Garantir un environnement sûr et modéré** pour les échanges entre les membres 
+
+Il est crucial de maintenir un environnement respectueux et constructif au sein de la communauté Simplon. 
+
+En détectant et en supprimant automatiquement les contenus inappropriés, la qualité des échanges sera boostée et les comportements nuisibles seront limités.
+
+
+###  **Encourager le partage de connaissances** 
+
+La collaboration entre les utilisateurs favorise l'apprentissage mutuel et la diffusion de ressources utiles au sein de la communauté.
+
+En valorisant les contributions pertinentes et en offrant des avantages aux membres actifs, le partage de connaissances sera encouragé et renforcé.
+
+### **Attirer de nouveaux membres et fidéliser les utilisateurs existants**
+
+En prenant en compte les différents enjeux évoqués ci-dessus, tout cela sera centralisé sur cet enjeu majeur.
+
+En attirant de nouveaux membres et en fidélisant les utilisateurs existants, la communauté Simplon pourra croître et se développer de manière durable.
+
+---
 
 ## Conclusion
 
