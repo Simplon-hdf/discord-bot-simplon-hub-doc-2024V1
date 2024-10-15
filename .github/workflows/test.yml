@@ -43,7 +43,7 @@ jobs:
           curl -X POST \
           -H "Content-Type: application/json" \
           -d '{
-            "content": "Pull Request #${{ github.event.pull_request.number }} has been **${{ github.event.action }}**.\n**Title**: ${{ github.event.pull_request.title }}\n**Link**: ${{ github.event.pull_request.html_url }}",
+            "content": "Pull Request #${{ github.event.pull_request.number }} has been **${{ github.event.action }}**.\n**Title**: ${{ github.event.pull_request.title }}\n**Link**: [PR Link](${{ github.event.pull_request.html_url }})",
             "username": "GitHub PR Bot"
           }' \
           $DISCORD_WEBHOOK_URL
