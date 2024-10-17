@@ -79,7 +79,6 @@ Le marché est également marqué par une concurrence féroce entre des acteurs 
 - Si le doublon est jugé meilleur que le post de base, le post de base est supprimé et le doublon prend sa place.
 - Les points du post supprimé sont transférés à la publication conservée. 🎯
 
----
 
 ## Pourquoi ce projet est-il important ?
 
