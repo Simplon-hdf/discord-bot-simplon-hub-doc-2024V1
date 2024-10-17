@@ -1,12 +1,12 @@
-# Objet : Compte-rendu de la réunion du [Date] pour le projet SimplonHub dans l’environnement Discord
+# Objet : Compte-rendu de la réunion du [Date]
 
-Bonjour Madame, Monsieur,
+Bonjour [Nom du client],
 
-L’équipe SimplonHub tient à vous remercier pour le temps que vous nous avez accordé ainsi que pour votre disponibilité lors de notre rencontre du Mercredi. Ce fut un plaisir de discuter ensemble de vos besoins et des différentes solutions que nous pourrions apporter pour mettre en place votre projet.
+L’équipe SimplonCommunity tient à vous remercier pour le temps que vous nous avez accordé ainsi que pour votre disponibilité lors de notre rencontre de ce mercredi.
 
 Comme convenu, vous trouverez ci-dessous un récapitulatif des principaux points abordés lors de notre échange, ainsi que les prochaines étapes que nous avons définies pour avancer sur ce projet.
 
-## Résumé de la réunion :
+Voici un résumé des sujets abordés :
 
 ### Objectifs principaux identifiés :
 
@@ -29,11 +29,8 @@ Comme convenu, vous trouverez ci-dessous un récapitulatif des principaux points
 - [Exemple : Organisation d'une réunion technique de suivi avec votre équipe pour le [Date].]
 - [Exemple : Envoi d’un devis détaillé d’ici [Date].]
 
-## Questions complémentaires :
 
-N'hésitez pas à nous contacter si vous avez des questions supplémentaires ou si vous souhaitez revenir sur l'un des points abordés.
-
-Merci encore pour votre confiance, et au plaisir de travailler ensemble sur ce projet.
+N'hésitez pas à nous contacter si vous avez des questions supplémentaires ou si vous souhaitez revenir sur l'un des points abordé
 
 Cordialement,  
-**Equipe SimplonHub**
+**Equipe SimplonCommunity**
