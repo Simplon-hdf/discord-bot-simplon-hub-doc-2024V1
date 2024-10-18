@@ -3,21 +3,30 @@
 
 ## 📖 Sommaire
 
-1. [Contexte du projet](#contexte-du-projet)
+1. [Présentation de Simplon](#présentation-de-simplon)
+   - [Le secteur d'activité](#le-secteur-dactivité)
+     - [L'émergence des formations numériques](#lémergence-des-formations-numériques)
+     - [Concurrence et paysage de la formation](#concurrence-et-paysage-de-la-formation)
+     - [Spécificités du marché de la formation numérique](#spécificités-du-marché-de-la-formation-numérique)
 
-2. [Vision Globale](#vision-globale)
-
-3. [Enjeux Principaux](#objectifs-principaux)
+2. [Enjeux Principaux](#enjeux-principaux)
    - [Encourager le partage de ressources](#encourager-le-partage-de-ressources)
-   - [Système de progression basé sur la reconnaissance](#systeme-de-progression-base-sur-la-reconnaissance)
-   - [Modération semi-automatique du contenu](#moderation-semi-automatique-du-contenu)
+   - [Système de progression basé sur la reconnaissance](#système-de-progression-basé-sur-la-reconnaissance)
+   - [Modération semi-automatique du contenu](#modération-semi-automatique-du-contenu)
    - [Gestion des doublons](#gestion-des-doublons)
-
-4. [Pourquoi ce projet est-il important ?](#pourquoi-ce-projet-est-il-important)
-   - [Engagement de la communauté](#engagement-de-la-communaute)
+   
+3. [Pourquoi ce projet est-il important ?](#pourquoi-ce-projet-est-il-important-)
+   - [Engagement de la communauté](#engagement-de-la-communauté)
    - [Reconnaissance des membres](#reconnaissance-des-membres)
-   - [Environnement sûr et modéré](#environnement-sur-et-modere)
+   - [Environnement sûr et modéré](#environnement-sûr-et-modéré)
 
+4. [Quels sont les enjeux de ce projet ?](#quels-sont-les-enjeux-de-ce-projet)
+   - [Les Rewards: véritable moteur de partage pour Simplon !](#les-rewards-véritable-moteur-de-partage-pour-simplon---)
+   - [Un espace sécurisé et motivant pour tous](#un-espace-sécurisé-et-motivant-pour-tous-)
+   - [Valoriser le savoir et encourager le partage](#valoriser-le-savoir-et-encourager-le-partage-)
+   - [Faire grandir et fidéliser la communauté](#faire-grandir-et-fidéliser-la-communauté-)
+   
+5. [Conclusion](#conclusion)
 
 ---
 
@@ -94,7 +103,7 @@ Le système de "likes" 👍 et "dislikes" 👎 permet aux utilisateurs de recevo
 
 Il est essentiel de garantir que la communauté reste un espace **respectueux et productif**. Grâce à la **modération automatique** et aux signalements communautaires, le bot s'assure que les interactions restent **appropriées**, et que les contenus inappropriés sont rapidement supprimés. ✅
 
----
+
 ## Quels sont les enjeux de ce projet ?
 
 ### Les Rewards: véritable moteur de partage pour Simplon !  🚀
